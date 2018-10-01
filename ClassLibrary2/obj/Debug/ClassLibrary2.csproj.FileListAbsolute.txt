@@ -1,0 +1,5 @@
+c:\users\m1047107\documents\visual studio 2017\Projects\ConsoleApp1\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+c:\users\m1047107\documents\visual studio 2017\Projects\ConsoleApp1\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+c:\users\m1047107\documents\visual studio 2017\Projects\ConsoleApp1\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache
+c:\users\m1047107\documents\visual studio 2017\Projects\ConsoleApp1\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+c:\users\m1047107\documents\visual studio 2017\Projects\ConsoleApp1\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

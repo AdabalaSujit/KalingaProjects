@@ -1,0 +1,8 @@
+c:\Users\M1047107\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\Users\M1047107\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\Users\M1047107\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\Users\M1047107\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ClassLibrary2.dll
+c:\Users\M1047107\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ClassLibrary2.pdb
+c:\Users\M1047107\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\Users\M1047107\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+c:\Users\M1047107\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
